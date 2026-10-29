@@ -1,0 +1,18 @@
+TITANIC DATA ANALYSIS REPORT
+===================================
+
+Training passengers: 891
+Overall survival rate: 38.38%
+
+Survival rate by gender (%):
+Sex
+female    74.20
+male      18.89
+
+Survival rate by passenger class (%):
+Pclass
+1    62.96
+2    47.28
+3    24.24
+
+Note: These are associations in the dataset, not proof of causation.
